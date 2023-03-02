@@ -1,6 +1,6 @@
 Use [Learn Anything](https://learn-anything.xyz/). Don't like something? See [code](https://github.com/learn-anything/learn-anything) and contribute to make it better for you.
 
-Join community on [Discord](https://discord.gg/bxtD8x6aNF) and follow on [Twitter](https://twitter.com/learnanything_) to get updates. Let's build togerher. ♥️
+Join community on [Discord](https://discord.gg/bxtD8x6aNF) and follow on [Twitter](https://twitter.com/learnanything_) to get updates. Let's build together. ♥️
 
 <details><summary>Goals and Future 🎇</summary>
 <br/>
