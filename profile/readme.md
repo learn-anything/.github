@@ -1,6 +1,6 @@
-> App to share what you know or want to learn next. Together with ideas you want to build.
+Use [Learn Anything](https://learn-anything.xyz/). Don't like something? See [code](https://github.com/learn-anything/learn-anything) and contribute to make it better for you.
 
-Try the [app](https://learn-anything.xyz/). See [code](https://github.com/learn-anything/learn-anything) and contribute. Join community on [Discord](https://discord.gg/bxtD8x6aNF) or follow for updates on [Twitter](https://twitter.com/learnanything_).
+Join community on [Discord](https://discord.gg/bxtD8x6aNF) or follow for updates on [Twitter](https://twitter.com/learnanything_). Let's build togerher. ♥️
 
 <details><summary>Goals and Future 🎇</summary>
 <br/>
