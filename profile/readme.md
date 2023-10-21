@@ -2,7 +2,7 @@ Use [Learn Anything](https://learn-anything.xyz/). Don't like something? See [co
 
 Join community on [Discord](https://discord.gg/bxtD8x6aNF) and follow on [X](https://twitter.com/learnanything_) to get updates. Let's build together. ♥️
 
-<! ––
+<!---
 <details><summary>Goals and Future 🎇</summary>
 <br/>
 <h2 id="goals">Goals</h2>
