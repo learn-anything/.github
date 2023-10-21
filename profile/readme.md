@@ -1,7 +1,8 @@
 Use [Learn Anything](https://learn-anything.xyz/). Don't like something? See [code](https://github.com/learn-anything/learn-anything) and contribute to make it better for you.
 
-Join community on [Discord](https://discord.gg/bxtD8x6aNF) and follow on [Twitter](https://twitter.com/learnanything_) to get updates. Let's build together. ♥️
+Join community on [Discord](https://discord.gg/bxtD8x6aNF) and follow on [X](https://twitter.com/learnanything_) to get updates. Let's build together. ♥️
 
+<! ––
 <details><summary>Goals and Future 🎇</summary>
 <br/>
 <h2 id="goals">Goals</h2>
@@ -34,3 +35,4 @@ Join community on [Discord](https://discord.gg/bxtD8x6aNF) and follow on [Twitte
 <h2 id="help-us-build-it">Help us build it</h2>
 <p>We personally cannot wait to build such a platform. We hope by building it, we finally kill the broken education system that exists now in many parts of the world. Education as it stands now is inflexible but above all it&#39;s insulting to the students who just wish to create things <strong>now</strong>. Not in the future.</p>
 </details>
+-->
